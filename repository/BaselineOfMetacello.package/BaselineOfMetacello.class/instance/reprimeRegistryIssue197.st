@@ -16,7 +16,7 @@ reprimeRegistryIssue197
   Transcript
     cr;
     show:
-        'priming registry from image. See https://github.com/dalehenrich/metacello-work/issues/197'.
+        'priming registry from image. See https://github.com/Metacello/metacello/issues/197'.
   [ 
   MetacelloProjectRegistration
     resetRegistry;
